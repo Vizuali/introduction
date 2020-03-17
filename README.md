@@ -1,4 +1,4 @@
-# Introdution
+# Introduction
 
 There's two processing sketches here. To run one, just comment the other and run; otherwise processing will throw an error. 
 
